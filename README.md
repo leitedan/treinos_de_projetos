@@ -14,3 +14,5 @@ JavaScript
 2- Contando: Um painel desenvolvido assistindo ao curso de JS do "Curso em Vídeo".
 
 3- Tabuada: Um painel que retorna os valores das tabuadas dos números em questão. Feito assistindo ao curso de JS do "Curso em Vídeo".
+
+4- Analisador: Um painel onde é inserido um número entre 1 e 100 e algumas informações e cálculos são mostrados em seguida
