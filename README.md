@@ -7,3 +7,10 @@ Linguagens utilizadas:
 HTML
 CSS
 JavaScript
+
+
+1- Genius Game: Uma tentativa de recriar o jogo de memória Genius utilizando JavaScript. Esse projeto foi feito assistindo algumas aulas de desafios de código da plataforma DIO
+
+2- Contando: Um painel desenvolvido assistindo ao curso de JS do "Curso em Vídeo".
+
+3- Tabuada: Um painel que retorna os valores das tabuadas dos números em questão. Feito assistindo ao curso de JS do "Curso em Vídeo".
