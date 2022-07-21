@@ -1,0 +1,51 @@
+body{
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(145, 145, 145);
+
+}
+
+p{
+    font-family: Snell Roundhand, cursive;
+}
+
+img{
+    height: 100px;
+    width: 300px;
+    margin-left: 650px;
+}
+
+.num {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    width: 100px;
+    height: 100px;
+    border-radius: 80px 80px;
+    font-size: 65px;
+    font-weight: bold;
+    color: white;
+    margin: 4px;
+}
+
+.rest {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    width: 25px;
+    height: 25px;
+    margin: 2px;
+    color: white;
+}
+
+button {
+    background-color: black;
+    box-shadow: #f3f1f196;
+    box-shadow: 2px 2px 2px 0px rgba(50, 50, 50, 0.75);
+}
+
+.divisor {
+    margin-top: 100px;
+}
